@@ -1,0 +1,6 @@
+﻿  数字加减.c
+D:\code2\test_1_4\test_1_4\数字加减.c(79,29): warning C4474: printf: 格式字符串中传递的参数太多
+D:\code2\test_1_4\test_1_4\数字加减.c(79,29): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+D:\code2\test_1_4\test_1_4\数字加减.c(83,29): warning C4474: printf: 格式字符串中传递的参数太多
+D:\code2\test_1_4\test_1_4\数字加减.c(83,29): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  test_1_4.vcxproj -> D:\code2\test_1_4\x64\Debug\test_1_4.exe
